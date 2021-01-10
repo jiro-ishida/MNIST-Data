@@ -11,3 +11,6 @@ Resources that contributed code to this notebook:
 https://www.kaggle.com/stefanbuenten/mnist-test-with-fastai
 <br>
 https://www.kaggle.com/daneiref/yet-another-mnist-using-fastai
+
+
+![alt text](https://miro.medium.com/max/2482/0*xqJA1mCMLc7b64H1.png)
