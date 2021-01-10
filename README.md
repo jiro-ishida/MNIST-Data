@@ -7,5 +7,7 @@ Most of the foundation of the code was from lesson 2 of fastai's Practical Deep 
 The final submission to Kaggle got a public score of 0.97396.
 
 Resources that contributed code to this notebook:
+<br>
 https://www.kaggle.com/stefanbuenten/mnist-test-with-fastai
+<br>
 https://www.kaggle.com/daneiref/yet-another-mnist-using-fastai
