@@ -1,6 +1,6 @@
 ## MNIST model with Fastai
 
-This notebook installs fast AI and grabs the MNIST dataset from Kaggle. It then trains and tests a model using fast ai and creates a csv file for submission to Kaggle.
+This notebook uses deep learning with fast AI and grabs the MNIST dataset from Kaggle. It then trains and tests a model using fast ai and creates a csv file for submission to Kaggle.
 
 Most of the foundation of the code was from lesson 2 of fastai's Practical Deep Learning for Coders found here https://course.fast.ai/.
 
